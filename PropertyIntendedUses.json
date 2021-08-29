@@ -1,0 +1,22 @@
+[
+  {
+    "sample": "1",
+    "value": "1",
+    "label": "OwnerOccupied"
+  },
+  {
+    "sample": "2",
+    "value": "2",
+    "label": "OwnerOccupiedAndRental"
+  },
+  {
+    "sample": "3",
+    "value": "3",
+    "label": "Rental"
+  },
+  {
+    "sample": "4",
+    "value": "4",
+    "label": "SecondHome"
+  }
+]

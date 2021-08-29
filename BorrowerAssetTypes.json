@@ -1,0 +1,47 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "DepositOnPurchase"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "Gift"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "HouseholdGoods"
+    },
+    {
+      "sample": "4",
+      "value": "4",
+      "label": "LifeInsurance"
+    },
+    {
+      "sample": "5",
+      "value": "5",
+      "label": "MutualFundOrStockOrBonds"
+    },
+    {
+      "sample": "6",
+      "value": "6",
+      "label": "RRSP"
+    },
+    {
+      "sample": "7",
+      "value": "7",
+      "label": "Savings"
+    },
+    {
+      "sample": "8",
+      "value": "8",
+      "label": "Vehicle"
+    },
+    {
+      "sample": "9",
+      "value": "9",
+      "label": "Other"
+    }
+  ]

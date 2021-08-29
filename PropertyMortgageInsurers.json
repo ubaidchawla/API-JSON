@@ -1,0 +1,17 @@
+[
+    {
+      "sample": "1",
+      "value": "10",
+      "label": "CanadaGuaranty"
+    },
+    {
+      "sample": "2",
+      "value": "20",
+      "label": "CMHC"
+    },
+    {
+      "sample": "3",
+      "value": "30",
+      "label": "Genworth"
+    }
+  ]

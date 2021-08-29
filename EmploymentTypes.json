@@ -1,0 +1,17 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "FullTime"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "PartTime"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "Seasonal"
+    }
+  ]

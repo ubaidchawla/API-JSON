@@ -1,0 +1,47 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "Spouse"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "CommonLaw"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "RelatedFamilyMember"
+    },
+    {
+      "sample": "4",
+      "value": "4",
+      "label": "Parent"
+    },
+    {
+      "sample": "5",
+      "value": "5",
+      "label": "Sibling"
+    },
+    {
+      "sample": "6",
+      "value": "6",
+      "label": "Child"
+    },
+    {
+      "sample": "7",
+      "value": "7",
+      "label": "Grandchild"
+    },
+    {
+      "sample": "8",
+      "value": "8",
+      "label": "Grandparent"
+    },
+    {
+      "sample": "9",
+      "value": "9",
+      "label": "Other"
+    }
+  ]

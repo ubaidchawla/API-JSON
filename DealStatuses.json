@@ -1,0 +1,47 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "New"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "Submitted"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "Approved"
+    },
+    {
+      "sample": "4",
+      "value": "4",
+      "label": "Accepted"
+    },
+    {
+      "sample": "5",
+      "value": "5",
+      "label": "Waiting To Close"
+    },
+    {
+      "sample": "6",
+      "value": "6",
+      "label": "Funded"
+    },
+    {
+      "sample": "7",
+      "value": "7",
+      "label": "Complete"
+    },
+    {
+      "sample": "8",
+      "value": "9",
+      "label": "Cancelled"
+    },
+    {
+      "sample": "9",
+      "value": "10",
+      "label": "Declined"
+    }
+  ]

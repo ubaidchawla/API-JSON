@@ -1,0 +1,27 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "CurrentlyOwn"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "LiveWithParents"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "PreviouslyOwned"
+    },
+    {
+      "sample": "4",
+      "value": "4",
+      "label": "Rent"
+    },
+    {
+      "sample": "5",
+      "value": "5",
+      "label": "Other"
+    }
+  ]

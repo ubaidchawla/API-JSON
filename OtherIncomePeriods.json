@@ -1,0 +1,37 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "Annual"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "BiWeekly"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "Monthly"
+    },
+    {
+      "sample": "4",
+      "value": "4",
+      "label": "Quarterly"
+    },
+    {
+      "sample": "5",
+      "value": "5",
+      "label": "SemiAnnual"
+    },
+    {
+      "sample": "6",
+      "value": "6",
+      "label": "SemiMonthly"
+    },
+    {
+      "sample": "7",
+      "value": "7",
+      "label": "Weekly"
+    }
+  ]

@@ -1,0 +1,42 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "Last Year"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "Last Month"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "This Year"
+    },
+    {
+      "sample": "4",
+      "value": "4",
+      "label": "This Month"
+    },
+    {
+      "sample": "5",
+      "value": "5",
+      "label": "Last 3 Months"
+    },
+    {
+      "sample": "6",
+      "value": "6",
+      "label": "Last Week"
+    },
+    {
+      "sample": "7",
+      "value": "7",
+      "label": "Yesterday"
+    },
+    {
+      "sample": "8",
+      "value": "8",
+      "label": "Today"
+    }
+  ]

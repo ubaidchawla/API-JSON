@@ -1,0 +1,32 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "BiWeekly"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "BiWeeklyAcc"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "Monthly"
+    },
+    {
+      "sample": "4",
+      "value": "4",
+      "label": "SemiMonthly"
+    },
+    {
+      "sample": "5",
+      "value": "5",
+      "label": "Weekly"
+    },
+    {
+      "sample": "6",
+      "value": "6",
+      "label": "WeeklyAcc"
+    }
+  ]

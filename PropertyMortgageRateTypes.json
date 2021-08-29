@@ -1,0 +1,27 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "Adjustable"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "Buydown"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "CappedVariable"
+    },
+    {
+      "sample": "4",
+      "value": "4",
+      "label": "Fixed"
+    },
+    {
+      "sample": "5",
+      "value": "5",
+      "label": "Variable"
+    }
+  ]

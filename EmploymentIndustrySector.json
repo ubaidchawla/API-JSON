@@ -1,0 +1,72 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "BankingOrFinance"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "Construction"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "Education"
+    },
+    {
+      "sample": "4",
+      "value": "4",
+      "label": "FarmingOrNaturalResources"
+    },
+    {
+      "sample": "5",
+      "value": "5",
+      "label": "Government"
+    },
+    {
+      "sample": "6",
+      "value": "6",
+      "label": "Health"
+    },
+    {
+      "sample": "7",
+      "value": "7",
+      "label": "HighTech"
+    },
+    {
+      "sample": "8",
+      "value": "8",
+      "label": "LeisureOrEntertainment"
+    },
+    {
+      "sample": "9",
+      "value": "9",
+      "label": "Manufacturing"
+    },
+    {
+      "sample": "10",
+      "value": "10",
+      "label": "RetailSales"
+    },
+    {
+      "sample": "11",
+      "value": "11",
+      "label": "Services"
+    },
+    {
+      "sample": "12",
+      "value": "12",
+      "label": "Transportation"
+    },
+    {
+      "sample": "13",
+      "value": "13",
+      "label": "Varies"
+    },
+    {
+      "sample": "14",
+      "value": "14",
+      "label": "Other"
+    }
+  ]

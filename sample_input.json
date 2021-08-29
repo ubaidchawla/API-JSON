@@ -1,0 +1,175 @@
+{
+  "closingDate": "2019-08-24T14:15:22Z",
+  "purchasePrice": 0,
+  "subjectProperty": {
+    "unitNumber": "string",
+    "streetNumber": "string",
+    "streetName": "string",
+    "streetType": 10,
+    "streetDirection": 1,
+    "city": "string",
+    "province": 0,
+    "postalCode": "string",
+    "intendedUse": 1
+  },
+  "mortgageRequest": {
+    "purpose": 10,
+    "mortgages": [
+      {
+        "amount": 0
+      }
+    ]
+  },
+  "borrowers": [
+    {
+      "salutation": 1,
+      "firstName": "string",
+      "middleName": "string",
+      "lastName": "string",
+      "suffix": 1,
+      "email": "user@example.com",
+      "caslOptIn": true,
+      "homePhone": "1234567890",
+      "cellPhone": "1234567890",
+      "businessPhone": "1234567890",
+      "dateOfBirth": "2019-08-24T14:15:22Z",
+      "socialInsuranceNumber": "string",
+      "maritalStatus": 1,
+      "contactPreference": 1,
+      "residentType": 1,
+      "correspondenceLanguage": 1,
+      "firstTimeBuyer": true,
+      "numOfDependents": 0,
+      "relationshipToPrimary": 1,
+      "addresses": [
+        {
+          "unitNumber": "string",
+          "streetNumber": "string",
+          "streetName": "string",
+          "streetType": 10,
+          "streetDirection": 1,
+          "city": "string",
+          "provinceOrState": 0,
+          "country": 1,
+          "postalCode": "string",
+          "yearsAtAddress": 0,
+          "monthsAtAddress": 0,
+          "dwellingStatus": 1,
+          "rentalPayment": 0
+        }
+      ],
+      "employmentHistory": [
+        {
+          "isCurrent": true,
+          "companyName": "string",
+          "selfEmployment": {
+            "companyType": "string",
+            "operatingAs": "string",
+            "grossRevenue": 0
+          },
+          "jobTitle": "string",
+          "jobType": 1,
+          "yearsAt": 0,
+          "monthsAt": 0,
+          "employmentType": 1,
+          "industrySector": 1,
+          "incomeType": 1,
+          "incomePeriod": 1,
+          "income": 0,
+          "yearsInIndustry": 0,
+          "monthsInIndustry": 0,
+          "phoneNumber": "1234567890",
+          "unitNumber": "string",
+          "streetNumber": "string",
+          "streetName": "string",
+          "streetType": 10,
+          "streetDirection": 1,
+          "city": "string",
+          "provinceOrState": 0,
+          "country": 1,
+          "postalCode": "string"
+        }
+      ],
+      "otherIncomes": [
+        {
+          "type": 1,
+          "incomePeriod": 1,
+          "amount": 0,
+          "description": "string"
+        }
+      ],
+      "assets": [
+        {
+          "type": 1,
+          "value": 0,
+          "description": "string",
+          "downPaymentAmount": 0
+        }
+      ],
+      "properties": [
+        {
+          "occupancy": 1,
+          "value": 0,
+          "originalPurchaseDate": "2019-08-24T14:15:22Z",
+          "originalPrice": 0,
+          "annualTaxes": 0,
+          "condoFees": 0,
+          "includesHeat": true,
+          "heatingFee": 0,
+          "propertyEquity": 0,
+          "futureStatus": 1,
+          "rentalDetails": {
+            "income": 0,
+            "hydroExpense": 0,
+            "managementExpense": 0,
+            "insuranceExpense": 0,
+            "repairsExpense": 0,
+            "interestExpense": 0,
+            "otherExpense": 0
+          },
+          "unitNumber": "string",
+          "streetNumber": "string",
+          "streetName": "string",
+          "streetType": 10,
+          "streetDirection": 1,
+          "city": "string",
+          "provinceOrState": 0,
+          "country": 1,
+          "postalCode": "string",
+          "mortgages": [
+            {
+              "balance": 0,
+              "maturityDate": "2019-08-24T14:15:22Z",
+              "paymentFrequency": 1,
+              "payment": 0,
+              "payoffType": 1,
+              "lender": "string",
+              "rateType": 1,
+              "interestRate": 0,
+              "blendedAmortization": true,
+              "termType": 1,
+              "mortgageNumber": "string",
+              "insured": true,
+              "insuranceAccount": "string",
+              "insurer": 10,
+              "originalPurchaseAmount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "text": "string"
+    }
+  ],
+  "referral": {
+    "firstName": "string",
+    "lastName": "string",
+    "companyName": "string",
+    "email": "user@example.com",
+    "type": 1,
+    "otherTypeDescription": "string"
+  }
+}

@@ -1,0 +1,17 @@
+[
+    {
+      "sample": "1",
+      "value": "1",
+      "label": "Closed"
+    },
+    {
+      "sample": "2",
+      "value": "2",
+      "label": "Convertible"
+    },
+    {
+      "sample": "3",
+      "value": "3",
+      "label": "Open"
+    }
+  ]
